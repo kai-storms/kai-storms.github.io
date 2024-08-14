@@ -1,7 +1,7 @@
 ---
 title: "Gaining knowledge on automated driving’s safety—The risk-free VAAFO tool"
 collection: publications
-category: chapter
+category: book_chapters
 permalink: /publication/2018-06-28-vaafo_tool
 excerpt: 'Insights into the development of a Silent Testing prototype called Virtual Assessment of Automation in Field Operation (VAAFO)'
 date: 2018-06-28
