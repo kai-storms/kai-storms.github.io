@@ -11,35 +11,58 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Dr.-Ing. (Ph.D) in Automated Driving, TU Darmstadt, 2024
+* M.Sc. in Mechanical Engineering, TU Darmstadt, 2020
+* B.Sc. in Mechanical Engineering, TU Darmstadt, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2020.May–Today: Research Associate
+  * TU Darmstadt, Institute of Automotive Engineering (FZD)
+  * Conception, proposal & handling of industrial and public funding projects.
+  * Development & supervision of internal software projects.
+  * Sub-project lead "Data Provisioning" in research project "V&V Methods"
+    * Coordination of data provisioning and processing by project partners.
+    * Management of a subcontract for data annotation.
+    * Organization with internal departments & stakeholders.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019.May–2019.Sept: Working Student
+  * Continental
+  * Software development in the test strategy team. 
+  * Focus on optimization algorithms, parameter variation and design of experiements.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018.Sept–2019.May: Intern
+  * Continental
+  * Support & software development in the PEGASUS research project.
+
+* 2013.Oct–2018.Sept: Student Assistant
+  * TU Darmstadt, Institute of Automotive Engineering (FZD)
+  * supervision of prototype vehicles.
+  * Implementation of assessment methods for automated driving.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Project Management
+  * Team organization
+  * Agile Methodologies(Scrum, Kanban)
+  * Budgeting
+  * Performance Monitoring
+* Software Engineering
+  * Python, Matlab, JavaScript
+  * Shell, Latex, Git, ROS
+  * System Design (UML), CI/CD
+  * Information Retrieval
+  * Database Systems
+* Automotive Engineering
+  * V&V (ISO26262, SOTIF)
+  * ASPICE
+  * TraceTronic ECU-TEST
+  * IPG CarMaker, ESmini
+* AI Engineering
+  * PyTorch
+  * Generative AI
+  * Training and Evaluation
+  * AI Ethics and Explainability
 
 Publications
 ======
@@ -53,12 +76,12 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Teaching
+#======
+#  <ul>{% for post in site.teaching reversed %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
