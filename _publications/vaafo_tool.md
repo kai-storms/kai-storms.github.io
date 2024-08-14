@@ -7,7 +7,7 @@ excerpt: 'Insights into the development of a Silent Testing prototype called Vir
 date: 2018-06-28
 venue: ' Control Strategies for Advanced Driver Assistance Systems and Autonomous Driving Functions'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://kai-storms.github.io/files/vaafo_tool.pdf'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-319-91569-2_3'
 citation: 'Junietz, P., Wachenfeld, W., Schönemann, V., Domhardt, K., Tribelhorn, W., Winner, H. (2019). Gaining Knowledge on Automated Driving’s Safety—The Risk-Free VAAFO Tool. In: Waschl, H., Kolmanovsky, I., Willems, F. (eds) Control Strategies for Advanced Driver Assistance Systems and Autonomous Driving Functions . Lecture Notes in Control and Information Sciences, vol 476. Springer, Cham. https://doi.org/10.1007/978-3-319-91569-2_3'
 ---
 
