@@ -1,6 +1,6 @@
 ---
 title: "TESTING AND SAFEGUARDING – SOFTWARE-IN-THE-LOOP"
-excerpt: "<img src='/files/2019-05-13_pegasus_fe.jpg'><br/>A short presentation about the importance and challenges of controlling the OD from ontologies to data formats."
+excerpt: "<img src='/files/2019-05-13_pegasus_fe-teaser.jpg'><br/>A short presentation about the importance and challenges of controlling the OD from ontologies to data formats."
 collection: talks
 type: "Presentation"
 permalink: /talks/2019-05-13_pegasus_fe
