@@ -12,8 +12,11 @@ redirect_from:
 Education
 ======
 * Dr.-Ing. (Ph.D) in Automated Driving, TU Darmstadt, 2024
+  * Thesis title: *Context Aware Data Reduction for Highly Automated Driving*
 * M.Sc. in Mechanical Engineering, TU Darmstadt, 2020
+  * Thesis title: *Development of a Module for Retrospective Evaluation of Predicted Object Trajectories.*
 * B.Sc. in Mechanical Engineering, TU Darmstadt, 2017
+  * Thesis title: *Retrospective Correction of Object Existence Errors in Environment Perception*
 
 Work experience
 ======
