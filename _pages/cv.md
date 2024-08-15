@@ -45,23 +45,23 @@ redirect_from:
   
 📖 Skills
 ======
-* Project Management
+* 📈 Project Management
   * Team organization
   * Agile Methodologies(Scrum, Kanban)
   * Budgeting
   * Performance Monitoring
-* Software Engineering
+* 💻 Software Engineering
   * Python, Matlab, JavaScript
   * Shell, Latex, Git, ROS
   * System Design (UML), CI/CD
   * Information Retrieval
   * Database Systems
-* Automotive Engineering
+* 🚗 Automotive Engineering
   * V&V (ISO26262, SOTIF)
   * ASPICE
   * TraceTronic ECU-TEST
   * IPG CarMaker, ESmini
-* AI Engineering
+* 🤖 AI Engineering
   * PyTorch
   * Generative AI
   * Training and Evaluation
