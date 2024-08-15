@@ -14,4 +14,5 @@ I implemented the Particle Swarm Optimization algorithm in TraceTronic ECU-Test 
 
 Poster:
 ======
-![IMAGE ALT TEXT HERE](https://kai-storms.github.io/files/2023-11-21-vvm_odd-slides/00.jpeg)
+![IMAGE ALT TEXT HERE](https://kai-storms.github.io/files/2019-05-13_pegasus_fe-slides/00.jpeg)
+![IMAGE ALT TEXT HERE](https://kai-storms.github.io/files/2019-05-13_pegasus_fe-slides/01.jpeg)
