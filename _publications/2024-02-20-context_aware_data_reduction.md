@@ -8,7 +8,7 @@ date:  2024-02-20
 #venue: 'Accident Analysis & Prevention'
 slidesurl: 'http://kai-storms.github.io/files/2024-02-20-context_aware_data_reduction-slides.pdf'
 paperurl: 'http://kai-storms.github.io/files/2024-02-20-context_aware_data_reduction.pdf'
-citation: '<b>Storms K.</b>, "Context Aware Data Reduction for Highly Automated Driving," (2024) Dissertation, Darmstadt.
+citation: '<b>Storms K.</b>, "Context Aware Data Reduction for Highly Automated Driving," (2024) Dissertation, Darmstadt.'
 
 ---
 
