@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+🎓 Education
 ======
 * Dr.-Ing. (Ph.D) in Automated Driving, TU Darmstadt, 2024
   * Thesis title: *Context Aware Data Reduction for Highly Automated Driving*
@@ -18,7 +18,7 @@ Education
 * B.Sc. in Mechanical Engineering, TU Darmstadt, 2017
   * Thesis title: *Retrospective Correction of Object Existence Errors in Environment Perception*
 
-Work experience
+👔 Work experience
 ======
 * 2020.May–Today: Research Associate
   * TU Darmstadt, Institute of Automotive Engineering (FZD)
@@ -43,7 +43,7 @@ Work experience
   * supervision of prototype vehicles.
   * Implementation of assessment methods for automated driving.
   
-Skills
+📖 Skills
 ======
 * Project Management
   * Team organization
@@ -67,13 +67,13 @@ Skills
   * Training and Evaluation
   * AI Ethics and Explainability
 
-Publications
+📖 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+💬 Talks & Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
