@@ -2,10 +2,10 @@
 title: "Operational Concept: ODD Description Creation, Ontology, Omega Format"
 collection: talks
 type: "Talk"
-permalink: /talks/2024-11-21-vvm_odd
-venue: "VVM Final Event"
-date: 2024-11-21
-location: "Stuttgart, Germany"
+permalink: /talks/2012-03-01-talk-1
+venue: "UC San Francisco, Department of Testing"
+date: 2012-03-01
+location: "San Francisco, California"
 ---
 
 Video:
