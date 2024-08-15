@@ -1,9 +1,7 @@
 ---
 title: "TESTING AND SAFEGUARDING – SOFTWARE-IN-THE-LOOP"
-header:
-  teaser: "2019-05-13_pegasus_fe-teaser.jpg"
 collection: talks
-type: "Talk"
+type: "Presentation"
 permalink: /talks/2019-05-13_pegasus_fe
 venue: "PEGASUS Final Event"
 date: 2019-05-13
