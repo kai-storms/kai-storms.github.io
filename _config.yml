@@ -21,7 +21,7 @@ repository               : "kai-storms/kai-storms.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Kai Storms"
   pronouns         : # example: "she/her"  
   bio              : "I am an automotive engineer with multiple years of experience in automated driving and a passion for safety and generative AI. For four years I lead a sub-project for data provisioning within a large national consortium of OEMs, Tier-1s and research institutes. I have a passion for Software Engineering, developed and maintained software applications from concept phase to deployment."
