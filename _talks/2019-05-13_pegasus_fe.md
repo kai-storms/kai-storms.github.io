@@ -1,5 +1,6 @@
 ---
 title: "TESTING AND SAFEGUARDING – SOFTWARE-IN-THE-LOOP"
+excerpt: "<img src='/files/2019-05-13_pegasus_fe.jpg'><br/>A short presentation about the importance and challenges of controlling the OD from ontologies to data formats."
 collection: talks
 type: "Presentation"
 permalink: /talks/2019-05-13_pegasus_fe
@@ -10,7 +11,6 @@ location: "Ehra-Lessien, Germany"
 
 Slides of work results from Continental work packages in PEGASUS Project.
 I implemented the Particle Swarm Optimization algorithm in TraceTronic ECU-Test to optimize the IPG CarMaker scenario for criticality. 
-
 
 Poster:
 ======
