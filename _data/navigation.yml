@@ -23,6 +23,9 @@ main:
   - title: "Posts"
     url: /year-archive/
   
+  - title: "List of Interest"
+    url: /list-of-interest/
+  
     
 #  - title: "Guide"
 #    url: /markdown/
