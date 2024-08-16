@@ -23,14 +23,16 @@ This is a collection of Books, projects, articles, as well as all other things t
     * *Blazingly fast data vizualization, built on QT*
   * [Gooey](https://github.com/chriskiehl/Gooey)
     * *When you need a GUI, but need it quick and without much effort*
-  * [Gooey](https://github.com/chriskiehl/Gooey)
+  * [Textual](https://github.com/Textualize/textual)
     * *GUI with no heavy backend*
+  * [pyzmq](https://zeromq.org/languages/python)
+    * *Messaging library, very usefull for creating communication between separate processes (not limited to python)*
 
 
 🚗 Automated Driving
 ======
 * 💬 **Talks**
-  * [PSW 2486 Self-Driving Cars | Missy Cummings](https://youtu.be/EyzRwXowJDI?si=xSGXCnitHKPIZgR3&t=769)
+  * [PSW 2486 Self-Driving Cars, Missy Cummings](https://youtu.be/EyzRwXowJDI?si=xSGXCnitHKPIZgR3&t=769)
 
 
 🙂 General
