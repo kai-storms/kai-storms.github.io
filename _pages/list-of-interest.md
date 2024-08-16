@@ -13,11 +13,11 @@ This is a collection of Books, projects, articles, as well as all other things t
 
 💻 Software Engineering
 ======
-* 💬 Talks
+* 💬 **Talks**
   * [James Powell: So you want to be a Python expert? PyData Seattle 2017](https://www.youtube.com/watch?v=cKPlPJyQrt4)
   * [Breaking the x86 Instruction Set](https://www.youtube.com/watch?v=KrksBdWcZgQ)
   * [Break Me00 The MoVfuscator Turning mov into a soul crushing RE nightmare Christopher Domas](https://www.youtube.com/watch?v=R7EEoWg6Ekk&t=40s)
-* 🐍 Python Libraries
+* 🐍 **Python Libraries**
   * [Python State Machine](https://python-statemachine.readthedocs.io/en/latest/)
   * [pyqtgraph](https://github.com/pyqtgraph/pyqtgraph)
     * *Blazingly fast data vizualization, built on QT*
@@ -28,11 +28,13 @@ This is a collection of Books, projects, articles, as well as all other things t
 
 
 🚗 Automated Driving
-* 💬 Talks
+======
+* 💬 **Talks**
   * [PSW 2486 Self-Driving Cars | Missy Cummings](https://youtu.be/EyzRwXowJDI?si=xSGXCnitHKPIZgR3&t=769)
 
 
 🙂 General
-* 💬 Talks
+======
+* 💬 **Talks**
   * [Randy Pausch Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo)
     * *Powerful talk about leading your life*
