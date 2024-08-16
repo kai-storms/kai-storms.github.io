@@ -21,10 +21,10 @@ redirect_from:
 👔 Work experience
 ======
 * 2020.May–Today: Research Associate
-  * TU Darmstadt, Institute of Automotive Engineering (FZD)
+  * TU Darmstadt, [Institute of Automotive Engineering (FZD)](https://www.fzd.tu-darmstadt.de)
   * Conception, proposal & handling of industrial and public funding projects.
   * Development & supervision of internal software projects.
-  * Sub-project lead "Data Provisioning" in research project "V&V Methods"
+  * Sub-project lead "Data Provisioning" in [research project "V&V Methods"](https://www.vvm-projekt.de/en/)
     * Coordination of data provisioning and processing by project partners.
     * Management of a subcontract for data annotation.
     * Organization with internal departments & stakeholders.
@@ -36,10 +36,10 @@ redirect_from:
 
 * 2018.Sept–2019.May: Intern
   * Continental
-  * Support & software development in the PEGASUS research project.
+  * Support & software development in the [PEGASUS research project](https://www.pegasusprojekt.de/en/)
 
 * 2013.Oct–2018.Sept: Student Assistant
-  * TU Darmstadt, Institute of Automotive Engineering (FZD)
+  * TU Darmstadt, [Institute of Automotive Engineering (FZD)](https://www.fzd.tu-darmstadt.de)
   * supervision of prototype vehicles.
   * Implementation of assessment methods for automated driving.
   
