@@ -27,12 +27,15 @@ This is a collection of Books, projects, articles, as well as all other things t
     * *GUI with no heavy backend*
   * [pyzmq](https://zeromq.org/languages/python)
     * *Messaging library, very usefull for creating communication between separate processes (not limited to python)*
+  * [umap](https://umap-learn.readthedocs.io/en/latest/)
+    * *Dimensionality reduction from N-Dimensions to 2D*
 
 
 🚗 Automated Driving
 ======
 * 💬 **Talks**
   * [PSW 2486 Self-Driving Cars, Missy Cummings](https://youtu.be/EyzRwXowJDI?si=xSGXCnitHKPIZgR3&t=769)
+  * [Rethinking AV Development with AV Foundation Models, Marco Pavone](https://www.youtube.com/watch?v=zPq63mPWdS4&pp=ygUMbWFyY28gcGF2b25l)
 
 
 🙂 General
