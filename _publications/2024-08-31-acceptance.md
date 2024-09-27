@@ -4,10 +4,10 @@ collection: publications
 category: manuscripts
 permalink: /publication/2023-12-13-acceptance
 excerpt: 'Explores the impact of initial driving experience of L3 ADS has on drivers Acceptance and Trust towards L3 ADS.'
-date: 2023-12-13
+date: 2024-08-31
 venue: 'IEEE Transactions on Intelligent Transportation Systems'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://kai-storms.github.io/files/2023-12-13-acceptance.pdf'
+paperurl: 'http://kai-storms.github.io/files/2024-08-31-acceptance.pdf'
 citation: 'S. Schwindt-Drews, K. Storms, S. Peters and B. Abendroth, "Acceptance and Trust: Drivers’ First Contact With Released Automated Vehicles in Naturalistic Traffic," in IEEE Transactions on Intelligent Transportation Systems, doi: 10.1109/TITS.2024.3443927'
 ---
 
