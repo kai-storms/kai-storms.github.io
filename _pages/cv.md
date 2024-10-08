@@ -20,27 +20,30 @@ redirect_from:
 
 👔 Work experience
 ======
-* 2020.May–Today: Research Associate
-  * TU Darmstadt, [Institute of Automotive Engineering (FZD)](https://www.fzd.tu-darmstadt.de)
+* **2020.May–Today: Research Associate**
+  * *TU Darmstadt, [Institute of Automotive Engineering (FZD)](https://www.fzd.tu-darmstadt.de)*
   * Conception, proposal & handling of industrial and public funding projects.
+    * Lead the FZD side of [successful DFG Research Group proposal "MiRoVA"](https://www.dfg.de/de/service/presse/pressemitteilungen/2024/pressemitteilung-nr-41)
   * Development & supervision of internal software projects.
   * Sub-project lead "Data Provisioning" in [research project "V&V Methods"](https://www.vvm-projekt.de/en/)
     * Coordination of data provisioning and processing by project partners.
     * Management of a subcontract for data annotation.
     * Organization with internal departments & stakeholders.
 
-* 2019.May–2019.Sept: Working Student
-  * Continental
+* **2019.May–2019.Sept: Working Student**
+  * *Continental*
   * Software development in the test strategy team. 
-  * Focus on optimization algorithms, parameter variation and design of experiements.
+  * Continued work from internship to create a general framework for test engineers.
+    * Focus on optimization algorithms, parameter variation and design of experiements.
 
-* 2018.Sept–2019.May: Intern
-  * Continental
+* **2018.Sept–2019.May: Intern**
+  * *Continental*
   * Support & software development in the [PEGASUS research project](https://www.pegasusprojekt.de/en/)
+    * Implemented parameter optimization algorithm for scenario based testing.
 
-* 2013.Oct–2018.Sept: Student Assistant
-  * TU Darmstadt, [Institute of Automotive Engineering (FZD)](https://www.fzd.tu-darmstadt.de)
-  * supervision of prototype vehicles.
+* **2013.Oct–2018.Sept: Student Assistant**
+  * *TU Darmstadt, [Institute of Automotive Engineering (FZD)](https://www.fzd.tu-darmstadt.de)*
+  * Supervision of prototype vehicles.
   * Implementation of assessment methods for automated driving.
   
 📖 Skills
@@ -64,7 +67,6 @@ redirect_from:
 * 🤖 AI Engineering
   * PyTorch
   * Generative AI
-  * 
   * Training and Evaluation
   * AI Ethics and Explainability
 
