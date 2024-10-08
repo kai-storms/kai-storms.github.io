@@ -31,7 +31,7 @@ In my free time I love to persue one of my hobbies, of which I have accumulated 
 
 🪂 My longest standing hobby is skydiving, which I did get into through my father.
 
-<img src="../files/skydiving_01.jpg" alt="drawing" height="300"/> <img src="../files/skydiving_02.jpg" alt="drawing" height="300"/>
+<img src="../files/skydiving_01.jpg" alt="drawing" height="200"/> <img src="../files/skydiving_02.jpg" alt="drawing" height="200"/>
 
 ⛰️ During my student years I did some climbing throughout the alps (mostly Via Ferrata). This particular picture was taken at the [lehner waterfall in Längenfeld](https://www.bergfex.at/sommer/tirol/touren/klettersteig/116441,via-ferrata-lehner-wasserfall--laengenfeld/)
 
