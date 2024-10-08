@@ -56,3 +56,8 @@ This is a collection of Books, projects, articles, as well as all other things t
 * 💬 **Talks**
   * [Randy Pausch Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo)
     * *Powerful talk about leading your life*
+* **Books**
+  * [Utopia for Realists](https://www.goodreads.com/book/show/40876575-utopia-for-realists)
+    * *A look into the importance of visions for society and where we could/should be headed for the future*
+  * [Baustellen der Nation (Construction Sites of the Nation)](https://www.goodreads.com/book/show/125083585-baustellen-der-nation)
+    * *What is currently wrong with german government apparatus and how it can be fixed. I love the constructive approach to this topic*
