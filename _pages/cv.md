@@ -55,7 +55,7 @@ redirect_from:
   * Shell, Latex, Git, ROS
   * System Design (UML), CI/CD
   * Information Retrieval
-  * Database Systems
+  * Data Engineering
 * 🚗 Automotive Engineering
   * V&V (ISO26262, SOTIF)
   * ASPICE
@@ -64,6 +64,7 @@ redirect_from:
 * 🤖 AI Engineering
   * PyTorch
   * Generative AI
+  * 
   * Training and Evaluation
   * AI Ethics and Explainability
 
