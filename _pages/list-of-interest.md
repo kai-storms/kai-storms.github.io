@@ -18,6 +18,10 @@ This is a collection of Books, projects, articles, as well as all other things t
   * [Breaking the x86 Instruction Set](https://www.youtube.com/watch?v=KrksBdWcZgQ)
   * [Break Me00 The MoVfuscator Turning mov into a soul crushing RE nightmare Christopher Domas](https://www.youtube.com/watch?v=R7EEoWg6Ekk&t=40s)
 * 🐍 **Python Libraries**
+  * [Ray](https://github.com/ray-project/ray)
+    * *Easy to use parallelization for ML Jobs, multiprocessing be gone!*
+  * [Dash](https://github.com/plotly/dash)
+    * *Insights into your results made easy/beautiful/powerful*
   * [Python State Machine](https://python-statemachine.readthedocs.io/en/latest/)
   * [pyqtgraph](https://github.com/pyqtgraph/pyqtgraph)
     * *Blazingly fast data vizualization, built on QT*
@@ -29,6 +33,15 @@ This is a collection of Books, projects, articles, as well as all other things t
     * *Messaging library, very usefull for creating communication between separate processes (not limited to python)*
   * [umap](https://umap-learn.readthedocs.io/en/latest/)
     * *Dimensionality reduction from N-Dimensions to 2D*
+  * **AI Models I am tinkering with**
+    * [CLIP](https://huggingface.co/docs/transformers/en/model_doc/clip)
+      * *Multimodal (text/image) tranformer*
+    * [CLIPSeg](https://huggingface.co/docs/transformers/main/en/model_doc/clipseg)
+      * *Built upon CLIP, CLIPSeg offers segmentation/object detection for arbitrary classes without training*
+    * [Pix2PixHD](https://github.com/NVIDIA/pix2pixHD)
+      * *Image two image translation by using GANs*
+    * [YOLOv8](https://github.com/ultralytics/ultralytics)
+      * *Object detection/segmentation/tracking so easy to use, it's barely engineering* 
 
 
 🚗 Automated Driving
