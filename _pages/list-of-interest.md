@@ -34,13 +34,15 @@ This is a collection of Books, projects, articles, as well as all other things t
   * [umap](https://umap-learn.readthedocs.io/en/latest/)
     * *Dimensionality reduction from N-Dimensions to 2D*
   * **AI Models I am tinkering with**
+    * [Gemini](https://aistudio.google.com)
+      * *Multimodal (text/image) tranformer*
     * [CLIP](https://huggingface.co/docs/transformers/en/model_doc/clip)
       * *Multimodal (text/image) tranformer*
     * [CLIPSeg](https://huggingface.co/docs/transformers/main/en/model_doc/clipseg)
       * *Built upon CLIP, CLIPSeg offers segmentation/object detection for arbitrary classes without training*
     * [Pix2PixHD](https://github.com/NVIDIA/pix2pixHD)
       * *Image two image translation by using GANs*
-    * [YOLOv8](https://github.com/ultralytics/ultralytics)
+    * [YOLOv(8/9/10/11)](https://github.com/ultralytics/ultralytics)
       * *Object detection/segmentation/tracking so easy to use, it's barely engineering* 
 
 
