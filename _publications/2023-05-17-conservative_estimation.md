@@ -7,7 +7,7 @@ excerpt: 'This paper explores the concept of relevance for perception in automat
 date: 2023-05-17
 venue: '2023 IEEE International Conference on Mobility, Operations, Services and Technologies (MOST)'
 slidesurl: 'http://kai-storms.github.io/files/2023-05-17-conservative_estimation-slides.pdf'
-paperurl: 'http://kai-storms.github.io/files/2023-05-17-conservative_estimation.pdf'
+paperurl: 'https://arxiv.org/pdf/2307.10873'
 citation: 'Mori K., <b>Storms K.</b> and Peters S., "Conservative Estimation of Perception Relevance of Dynamic Objects for Safe Trajectories in Automotive Scenarios," 2023 IEEE International Conference on Mobility, Operations, Services and Technologies (MOST), Detroit, MI, USA, 2023, pp. 83-95, doi: 10.1109/MOST57249.2023.00017.'
 ---
 
