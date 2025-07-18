@@ -7,7 +7,7 @@ excerpt: 'A novel method to data reduction for the usage in highly automated dri
 date:  2024-02-20
 venue: 'Technical University of Darmstadt'
 slidesurl: 'http://kai-storms.github.io/files/2024-02-20-context_aware_data_reduction-slides.pdf'
-paperurl: '[http://kai-storms.github.io/files/2024-02-20-context_aware_data_reduction.pdf](https://arxiv.org/pdf/2307.10873)'
+paperurl: 'https://arxiv.org/pdf/2307.10873'
 citation: '<b>Storms K.</b>, "Context Aware Data Reduction for Highly Automated Driving," (2024) Dissertation, Technical University of Darmstadt, Darmstadt, doi: 10.26083/tuprints-00026704'
 
 ---
